@@ -18,6 +18,8 @@ mutation-rate: 0.01
 
 OBS: "mutation-rate" is in decimal notation (0.01 = 1%)
 
+Just a tip: Best be careful with mutation (っ◕‿◕)っ
+
 ## License
 
 All code and build scripts in this repo is licensed under the terms of [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
