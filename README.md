@@ -8,13 +8,15 @@ Tested with Python 3.11.3 on both Windows 10 22H2 and Arch Linux
 ```bash
 python ./src/ag.py <max-gen-num> <max-popl-num> <mutation-rate>
 ```
-- Defaults
+### Defaults (っ◕‿◕)っ
 
 max-gen-num: 650
 
 max-popl-num: 100
 
 mutation-rate: 0.01
+
+### Defaults (っ◕‿◕)っ
 
 OBS: "mutation-rate" is in decimal notation (0.01 = 1%)
 
