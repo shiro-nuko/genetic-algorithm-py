@@ -8,7 +8,7 @@ Tested with Python 3.11.3 on both Windows 10 22H2 and Arch Linux
 ```bash
 python ./src/ag.py <max-gen-num> <max-popl-num> <mutation-rate>
 ```
-###Defaults
+- Defaults
 
 max-gen-num: 650
 max-popl-num: 100
