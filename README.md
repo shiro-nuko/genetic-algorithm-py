@@ -16,8 +16,6 @@ max-popl-num: 100
 
 mutation-rate: 0.01
 
-### Defaults (っ◕‿◕)っ
-
 OBS: "mutation-rate" is in decimal notation (0.01 = 1%)
 
 ## License
